@@ -1,0 +1,21 @@
+{
+    "type":"Fixed Window - 2 Divisions",
+    "frame":
+    {
+        "divisions":
+        {
+            "direction": "HORIZONTAL",
+            "items":
+            [
+                {
+                    "size":50,
+                    "pane":{"depth":0.04}
+                },
+                {
+                    "size":100,
+                    "pane":{"depth":0.04}
+                }
+            ]   
+        }
+    }
+}
